@@ -1,2 +1,2 @@
-# sight_inside.github.io
+# SightInside.github.io
 Курсовая1
